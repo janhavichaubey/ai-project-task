@@ -52,7 +52,7 @@ ________________________________________
 •	Documentation: SerpAPI Documentation
 2. Groq API
 •	Powers the LLM functionality to extract targeted insights from search results.
-•	Documentation: Groq API
+•	Documentation: [Groq API]
 3. Google Sheets API
 •	Provides seamless integration for importing/exporting data with Google Sheets.
 •	Documentation: Google Sheets API
