@@ -32,13 +32,16 @@ _streamlit run main.py_
 Step 2: Upload or Connect to Data
 •	Upload File: Drag and drop a CSV file into the dashboard.
 •	Connect to Google Sheets: Authenticate using your Google account and select a sheet.
+
 Step 3: Configure Query Template
 Specify a query format (e.g., “Find headquarters of {entity}”). Use {entity} as a placeholder for column values.
+
 Step 4: Process Data
 •	Start processing to:
 1.	Fetch web search results for each entry.
 2.	Pass the results through the LLM for parsing.
 3.	Display the enriched data.
+   
 Step 5: Review and Export
 •	Review results in the dashboard.
 •	Export data as a CSV file or update the connected Google Sheet.
